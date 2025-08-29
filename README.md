@@ -21,7 +21,7 @@ conda activate discogan_eval
 We use the ESC-50 dataset as the noise sources for creating our evaluation dataset.
 
 ```shell
-$ cd low-snr-evaldata-generation 
+$ cd Low-SNR-Eval-Data
 $ git clone https://github.com/karolpiczak/ESC-50.git
 ```
 
