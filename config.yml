@@ -1,0 +1,39 @@
+################################## Config file for evaluation dataset #################################
+
+fs: 16000
+snr_lower: -15
+snr_upper: 0
+target_level_lower: -20
+target_level_upper: -20
+
+samples_size: 8
+noise_dir: /Users/shtu/Documents/shtu_data/GENAI-SE/EvalDataset/ESC_Categories
+speech_dir: /Users/shtu/Documents/shtu_data/NR_Evaluation/Eval-Dataset/synthetic/no_reverb/clean
+
+noisyspeech_dir: eval_set_sept/noisy
+clean_proc_dir: eval_set_sept/clean
+noise_proc_dir: eval_set_sept/noise
+
+noise_categories:
+  - rain 
+  - sea_waves 
+  - crackling_fire 
+  - crickets 
+  - wind 
+  - crow 
+  - washing_machine
+  - vacuum_cleaner 
+  - hand_saw 
+  - engine 
+  - dog 
+  - fireworks
+  - car_horn 
+  - keyboard_typing 
+  - door_wood_knock 
+  - glass_breaking 
+  - chainsaw 
+  - siren 
+  - helicopter 
+  - thunderstorm 
+
+
