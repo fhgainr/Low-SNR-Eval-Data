@@ -53,4 +53,4 @@ $ python dataset.py --config_path './config.yml'
 
 
 **Software Copyright License for Academic Use of the Fraunhofer Software, Version 1.0**  
-(c) 2025 Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.
+(c) 2025 Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V. Please see more details about the license in Fraunhofer-Academic-License.txt and DNS.txt.
